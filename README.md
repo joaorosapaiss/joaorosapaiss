@@ -59,8 +59,14 @@ A minha **vontade de aprender e crescer** define-me profundamente. Estou sempre 
 
 
 ## 🔧 Atualmente a Trabalhar em...
-- Classificador de células sanguíneas com redes MLP/CNN, utilizando um dataset de imagens microscópicas com mais de 12.432 amostras distribuídas em 5 classes distintas. Este projeto faz parte de um processo de três fases, envolvendo a definição do modelo inicial (Meta I), otimização da arquitetura (Meta II) e a implementação e validação da solução final (Meta III). 🧠🔬
-- Upload e organização dos projetos desenvolvidos ao longo da licenciatura, com o objetivo de criar um portfólio que reflita o progresso e as competências adquiridas durante o curso. 📂🎓
+- **Classificador de células sanguíneas com redes MLP/CNN**, utilizando um dataset de imagens microscópicas com mais de 12.432 amostras distribuídas em 5 classes distintas. Este projeto faz parte de um processo de três fases, envolvendo a definição do modelo inicial (Meta I), otimização da arquitetura (Meta II) e a implementação e validação da solução final (Meta III). 🧠🔬
+- **Upload e organização dos projetos desenvolvidos ao longo da licenciatura**, com o objetivo de criar um portfólio que reflita o progresso e as competências adquiridas durante o curso. 📂🎓
+
+## 🔧 Trabalhos a Iniciar Brevemente...
+- **Projeto de Data Wharehousing**:  pipeline ETL com **Python**, integrando **MySQL** e **SQL Server**, e visualização de dados em **Power BI**. 📊🔄
+  
+- **Aplicação Web**: Construção de uma aplicação web robusta utilizando **.NET Core 8** e **Blazor**. 💻🌐
+
 
 
 
