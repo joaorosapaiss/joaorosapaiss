@@ -66,7 +66,8 @@ A minha **vontade de aprender e crescer** define-me profundamente. Estou sempre 
 - **Upload e organização dos projetos desenvolvidos ao longo da licenciatura**, com o objetivo de criar um portfólio que reflita o progresso e as competências adquiridas durante o curso. 📂🎓
 
 ## 🔧 Trabalhos a Iniciar Brevemente...
-- **Projeto de Data Wharehousing**:  pipeline ETL com **Python**, integrando **MySQL** e **SQL Server**, e visualização de dados em **Power BI**. 📊🔄
+-  **Pipeline ETL** com **Python**, integrando **MySQL**;
+-  **Projeto de Data Wharehousing**: **SQL Server**, e visualização de dados em **Power BI**. 📊🔄
   
 - **Aplicação Web**: Construção de uma aplicação web robusta utilizando **.NET Core 8** e **Blazor**. 💻🌐
 
