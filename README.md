@@ -22,12 +22,8 @@ A minha **vontade de aprender e crescer** define-me profundamente. Estou sempre 
 ### Bases de Dados
 <img align="left" alt="Oracle" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"/>
 
-<!--<img align="left" alt="SQLServer" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"/>
-<img align="left" alt="MySQL" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>-->
-<!--
-<img align="left" alt="SQLServer" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg"/>
-<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/>
--->
+<img align="left" alt="SQLServer" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"/>
+<img align="left" alt="MySQL" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
 <br><br>
 
 ### Desenvolvimento Web
@@ -62,11 +58,10 @@ A minha **vontade de aprender e crescer** define-me profundamente. Estou sempre 
 - **Classificador de células sanguíneas com redes MLP/CNN**, utilizando um dataset de imagens microscópicas com mais de 12.432 amostras distribuídas em 5 classes distintas. Este projeto faz parte de um processo de três fases, envolvendo a definição do modelo inicial (Meta I), otimização da arquitetura (Meta II) e a implementação e validação da solução final (Meta III). 🧠🔬
 - **Oracle OCI Data Foundations Associate (2024)** - Certificado. 
 - **Upload e organização dos projetos desenvolvidos ao longo da licenciatura**, com o objetivo de criar um portfólio que reflita o progresso e as competências adquiridas durante o curso. 📂🎓
+- **Pipeline ETL em Python**, extrai dados de MySQL e CSV, transforma e carrega num Data Warehouse no SQL Server.
 
 ## 🔧 Trabalhos a Iniciar Brevemente...
--  **Pipeline ETL** com **Python**, integrando **MySQL**;
--  **Projeto de Data Wharehousing**: **SQL Server**, e visualização de dados em **Power BI**. 📊🔄
-  
+-  **Projeto de Data Wharehousing**: **SQL Server**, **Microsoft Analysis Services** no VS2022 e visualização de dados em **Power BI**. 📊🔄
 - **Aplicação Web**: Construção de uma aplicação web robusta utilizando **.NET Core 8** e **Blazor**. 💻🌐
 
 
